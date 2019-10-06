@@ -1,2 +1,2 @@
 # Shortcuts-for-iOS
-A collection of public open source shortcuts I have built myself or forked from others already available.
+A collection of public open source shortcuts I have built myself or forked from others already available. All the Shortcuts listed here are available for download from my [site](https://gagerandall.page/Shortcuts-iOS) or on [RoutineHub](https://routinehub.co/user/grandall95). It may be possible that at some point one might be able to install the files into Shortcuts, but, until such a time, these files will remain backups.
