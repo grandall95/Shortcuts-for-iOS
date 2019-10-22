@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 13.1.3//EN
+N:Hotline;Suicide;Prevention;;
+FN:Suicide Prevention Hotline
+NICKNAME:Lifeline
+item1.TEL;type=pref:(800) 273-8255
+item1.X-ABLabel:lifeline
+item2.TEL:741-741
+item2.X-ABLabel:crisis
+item3.URL;type=pref:https://suicidepreventionlifeline.org/
+item3.X-ABLabel:lifeline
+item4.URL:https://www.crisistextline.org/
+item4.X-ABLabel:crisis
+item5.URL:https://suicidepreventionlifeline.org/chat/
+item5.X-ABLabel:chat
+END:VCARD
